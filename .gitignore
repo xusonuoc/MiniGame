@@ -1,0 +1,22 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Visual Studio / MonoDevelop generated files
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+
+GameBuild/
+
